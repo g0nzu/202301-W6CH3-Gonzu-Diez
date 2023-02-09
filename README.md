@@ -22,4 +22,9 @@ Separa todo en los siguientes componentes:
 - Keyboard
   - Key
 
-Entrega también un listado de responsabilidades.
+## Listado de responsabilidades:
+
+- Main : Interfaz
+- Call : Botón llamada
+- End : Botón colgar
+- Display: Números
