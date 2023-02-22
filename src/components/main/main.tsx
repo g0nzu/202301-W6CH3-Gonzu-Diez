@@ -13,7 +13,6 @@ export function Main() {
 
   return (
     <div className="container">
-      <span className="message">Calling...</span>
       <main className="phone">
         <div className="keyboard-container">
           <Display number={number} />
